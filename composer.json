@@ -1,0 +1,16 @@
+{
+    "name": "gitbird/Redis",
+    "version": "1.0",
+    "description": "Redis扩展的封装，提供了主从机制；提供了Yii框架的组件封装",
+    "type": "library",
+    "keywords": ["gitbird", "Redis"],
+    "author": [
+        {
+            "name": "liujickson",
+            "email": "liujickson@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
