@@ -1,12 +1,12 @@
 <?php
 
-namespace wowotuan\Redis;
+namespace gitbird\Redis;
 
 /**
  * Yii框架的组件封装
  * 'components'=> array(
  *      'redis'=> array(
- *      'class' => 'wowotuan.Yii.Redis.Components'
+ *      'class' => 'gitbird.Yii.Redis.Components'
  *      'master' => array('host'=>'', 'port'=>6379),
  *      'slave' => array(
  *          array('host'=>'', 'port'=>6378),

@@ -1,5 +1,5 @@
 <?php
-namespace wowotuan\Redis\Exceptions;
+namespace gitbird\Redis\Exceptions;
 
 /**
  * redis扩展没有载入

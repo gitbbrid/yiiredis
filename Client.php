@@ -1,6 +1,6 @@
 <?php
 
-namespace wowotuan\Redis;
+namespace gitbird\Redis;
 
 /**
  * Redis客户端

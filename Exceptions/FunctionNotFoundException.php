@@ -1,6 +1,6 @@
 <?php
 
-namespace wowotuan\Redis\Exceptions;
+namespace gitbird\Redis\Exceptions;
 
 /**
  * 函数没有找到

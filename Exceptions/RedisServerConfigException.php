@@ -1,6 +1,6 @@
 <?php
 
-namespace wowotuan\Redis\Exceptions;
+namespace gitbird\Redis\Exceptions;
 
 /**
  * Redis服务器设置异常
